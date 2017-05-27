@@ -8,6 +8,7 @@ repositories {
             url 'https://dl.bintray.com/caoustc/maven/'
         }
     }
+    
 compile 'com.caoustc.library:retrofitlib:0.0.3'
 
     
