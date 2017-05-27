@@ -1,8 +1,9 @@
 # RetrofitManager
 Retrofit2 + RXjava2 + Okhttp3 + FastJson Manager
 
-Getting started
+# Getting started
 
+```
 repositories {
         maven {
             url 'https://dl.bintray.com/caoustc/maven/'
@@ -10,12 +11,12 @@ repositories {
     }
     
 compile 'com.caoustc.library:retrofitlib:0.0.3'
+```
+    
+# Usage
 
     
-Usage
-
-    
-License
+# License
 Copyright 2016 leefeng.me
 
 Licensed under the Apache License, Version 2.0 (the "License");
